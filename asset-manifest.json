@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.28fdd668.css",
-    "main.js": "/static/js/main.cf4be288.js",
-    "static/js/787.20c7c1cc.chunk.js": "/static/js/787.20c7c1cc.chunk.js",
-    "static/media/fakeicon.png": "/static/media/fakeicon.906007f728730d364713.png",
-    "static/media/grid.png": "/static/media/grid.bae67a84734bf8422e34.png",
-    "index.html": "/index.html",
-    "main.28fdd668.css.map": "/static/css/main.28fdd668.css.map",
-    "main.cf4be288.js.map": "/static/js/main.cf4be288.js.map",
-    "787.20c7c1cc.chunk.js.map": "/static/js/787.20c7c1cc.chunk.js.map"
+    "main.css": "https://louis0723.github.io/phishing/static/css/main.0e9282f1.css",
+    "main.js": "https://louis0723.github.io/phishing/static/js/main.2cfdd767.js",
+    "static/js/787.20c7c1cc.chunk.js": "https://louis0723.github.io/phishing/static/js/787.20c7c1cc.chunk.js",
+    "static/media/fakeicon.png": "https://louis0723.github.io/phishing/static/media/fakeicon.906007f728730d364713.png",
+    "static/media/grid.png": "https://louis0723.github.io/phishing/static/media/grid.bae67a84734bf8422e34.png",
+    "index.html": "https://louis0723.github.io/phishing/index.html",
+    "main.0e9282f1.css.map": "https://louis0723.github.io/phishing/static/css/main.0e9282f1.css.map",
+    "main.2cfdd767.js.map": "https://louis0723.github.io/phishing/static/js/main.2cfdd767.js.map",
+    "787.20c7c1cc.chunk.js.map": "https://louis0723.github.io/phishing/static/js/787.20c7c1cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28fdd668.css",
-    "static/js/main.cf4be288.js"
+    "static/css/main.0e9282f1.css",
+    "static/js/main.2cfdd767.js"
   ]
 }
